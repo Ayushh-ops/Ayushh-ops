@@ -1,14 +1,20 @@
 <div align="center">
 
-# Ayush Sinha
+<h1>Ayush Sinha</h1>
 
-**Full-Stack Developer & AI Systems Builder**
+<p>Full-Stack Developer &nbsp;·&nbsp; React &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Django &nbsp;·&nbsp; Flutter</p>
 
-B.Tech CSE, ABES Engineering College · India
-
-<a href="https://www.linkedin.com/in/ayush-sinha-749b0431b"><img src="https://img.shields.io/badge/LinkedIn-Ayush%20Sinha-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:asinha30012004@gmail.com"><img src="https://img.shields.io/badge/Email-asinha30012004%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Ayushh-ops?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repositories" /></a>
+<a href="https://www.linkedin.com/in/ayush-sinha-749b0431b">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:asinha30012004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://github.com/Ayushh-ops">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
 
@@ -16,88 +22,107 @@ B.Tech CSE, ABES Engineering College · India
 
 ## About
 
-I build multi-agent AI pipelines, codebase intelligence tools, and full-stack web and mobile applications. My current focus is on autonomous AI workflows, dependency-graph analysis, and scalable React and Flutter products.
+I build full-stack web and mobile applications, with a focus on React/Flutter products, dependency-graph and codebase analysis tools, and multi-agent workflows.
 
 ---
 
 ## Tech Stack
 
-| Category | Technologies |
-|:---|:---|
-| **Languages** | TypeScript, JavaScript, Python, Dart, C++ |
-| **Frontend** | React, Flutter, Tailwind CSS, HTML, CSS |
-| **Backend** | Node.js, Express, Django |
-| **AI** | CrewAI, LangChain, Gemini, Groq, Tavily |
-| **Tools** | Git, Docker, VS Code, Jupyter |
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=ts,js,py,dart,cpp" alt="Languages" />
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,flutter,tailwind" alt="Frontend" />
+
+**Backend & Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,docker,git,vscode,jupyter" alt="Backend and Tools" />
+
+**AI** &nbsp; Gemini · Groq · CrewAI · LangChain · Tavily
 
 ---
 
-## Featured Projects
+## Projects
 
-### [Engineering-Memory](https://github.com/Ayushh-ops/Engineering-Memory)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/Ayushh-ops/Engineering-Memory">Engineering-Memory</a></h3>
+      Codebase intelligence and change-impact analysis.
+      <br><br>
+      <b>Stack:</b> TypeScript · React · Node.js
+      <br><br>
+      · Interactive dependency graph
+      <br>
+      · Blast-radius analysis
+      <br>
+      · AI Q&amp;A with line-level evidence
+      <br>
+      · Code health &amp; ownership mapping
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/Ayushh-ops/AGENTIC-AI">AGENTIC-AI</a></h3>
+      Multi-agent research assistant with Researcher, Verifier, and Report agents.
+      <br><br>
+      <b>Stack:</b> Python · CrewAI · Flutter/Dart · Tavily
+      <br><br>
+      · Query decomposition &amp; web search
+      <br>
+      · Cross-source claim verification
+      <br>
+      · Cited reports; Quick/Deep modes
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/Ayushh-ops/Frontend-ACTS">Frontend-ACTS</a></h3>
+      AI-powered civic complaint tracking.
+      <br><br>
+      <b>Stack:</b> React · Django · Tailwind CSS · Docker
+      <br><br>
+      · JWT-authenticated citizen/admin flows
+      <br>
+      · AI triage and clustering
+      <br>
+      · Admin dashboard
+    </td>
+  </tr>
+</table>
 
-Codebase intelligence and change-impact analysis platform for GitHub repositories.
-
-**Stack:** TypeScript · React · Node.js
-
-- Interactive dependency graph across files, classes, and imports
-- Blast-radius impact analysis before breaking changes
-- AI Q&A assistant grounded in line-level code evidence
-- Code health scoring, bus-factor, and ownership mapping
-
----
-
-### [AGENTIC-AI](https://github.com/Ayushh-ops/AGENTIC-AI)
-
-Multi-agent research assistant that coordinates Researcher, Verifier, and Report agents with Quick and Deep modes.
-
-**Stack:** Python · CrewAI · Flutter / Dart · Tavily
-
-- Autonomous query decomposition and web search via Tavily
-- Cross-source claim verification and credibility filtering
-- Structured, fully cited research reports
-- Configurable research depth (Quick vs. Deep)
-
----
-
-### [Frontend-ACTS](https://github.com/Ayushh-ops/Frontend-ACTS)
-
-AI-powered civic complaint tracking system with automated triage, crowd clustering, and smart routing.
-
-**Stack:** React · Django · Tailwind CSS · Docker
-
-- JWT-authenticated citizen and admin flows
-- AI triage fields and complaint clustering
-- Dockerized backend with cross-platform API routing
-- Two-way complaint confirmation and admin dashboard
-
----
-
-## Other Work
-
-| Repository | Description |
-|:---|:---|
-| [DSA-AYUSH-355](https://github.com/Ayushh-ops/DSA-AYUSH-355) | Data structures and algorithm implementations in C++ and C |
-| [React-Learning](https://github.com/Ayushh-ops/React-Learning) | React fundamentals — hooks, state, component projects (Password Generator, Background Changer) |
-| [FSD-CSE-15](https://github.com/Ayushh-ops/FSD-CSE-15) | Full-stack exercises including a shopping app, bookstore, and async JavaScript patterns |
-| [Python_Ayush355](https://github.com/Ayushh-ops/Python_Ayush355) | Python scripts, data exploration notebooks, and algorithmic exercises |
-| [WDW_Ayush_355](https://github.com/Ayushh-ops/WDW_Ayush_355) | Web development lab work covering HTML, CSS, and JavaScript fundamentals |
+More on GitHub → [github.com/Ayushh-ops?tab=repositories](https://github.com/Ayushh-ops?tab=repositories)
 
 ---
 
-## GitHub Activity
+## GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ayushh-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushh-ops&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=Ayushh-ops&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Ayushh-ops&show_icons=true&hide_border=true&theme=default&count_private=true"
+      height="170"
+      alt="GitHub Stats"
+    />
+  </picture>
+  &nbsp;
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushh-ops&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushh-ops&layout=compact&hide_border=true&theme=default&langs_count=8"
+      height="170"
+      alt="Top Languages"
+    />
+  </picture>
 </div>
 
 ---
 
 ## Contact
 
-- **LinkedIn:** [linkedin.com/in/ayush-sinha-749b0431b](https://www.linkedin.com/in/ayush-sinha-749b0431b)
-- **Email:** [asinha30012004@gmail.com](mailto:asinha30012004@gmail.com)
-- **GitHub:** [github.com/Ayushh-ops](https://github.com/Ayushh-ops)
+[LinkedIn](https://www.linkedin.com/in/ayush-sinha-749b0431b) &nbsp;·&nbsp; [asinha30012004@gmail.com](mailto:asinha30012004@gmail.com) &nbsp;·&nbsp; [github.com/Ayushh-ops](https://github.com/Ayushh-ops)
